@@ -4,7 +4,7 @@
   
 - 📫 How to reach me 51 9987642124 or henrypadilha10@gmail.com
 - 😄 Pronouns: he/his
-- ⚡ Fun fact: im like play football and watch movies and series
+
 
 <!---
 HenryPadilha/HenryPadilha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
